@@ -20,8 +20,8 @@ Adjust blur, refraction, opacity, chromatic aberration, Fresnel highlights and m
 
 \`\`\`bash
 
-git clone https://github.com/USERNAME/hyprglass-control.git
-
+git clone [https://github.com/USERNAME/hyprglass-control.git
+](https://github.com/falaaaaaaafel/hyprglass-control)
 cd hyprglass-control
 
 ./install.sh
