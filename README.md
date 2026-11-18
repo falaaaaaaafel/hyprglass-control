@@ -2,7 +2,7 @@
 
 \> \*\*⚠️ Disclaimer\*\*  
 
-\> This application is currently in active development (work in progress) and may contain bugs or incomplete features. My name is \*\*falaaaaaaafel\*\*, and I am not a programmer—I built this project with the help of AI. Please use it at your own discretion, and feedback or contributions are always welcome!
+\> This application is currently in active development (work in progress) and may contain bugs or incomplete features. I am \*\*falaaaaaaafel\*\*, and I am not a programmer—I built this project with the help of AI. Please use it at your own discretion, and feedback or contributions are always welcome!
 
 A Quickshell control center for the \[Hyprglass\](https://github.com/) plugin on Hyprland.  
 
